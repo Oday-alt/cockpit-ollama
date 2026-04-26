@@ -29,7 +29,7 @@ Plugin Cockpit pour gérer votre serveur Ollama et vos modèles IA directement d
 
 ```bash
 # Cloner/télécharger le projet
-git clone https://github.com/alois-alt/cockpit-ollama.git
+git clone https://github.com/Oday-alt/cockpit-ollama.git
 cd cockpit-ollama
 
 # Installer (build + déploiement)
