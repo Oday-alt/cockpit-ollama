@@ -176,4 +176,3 @@ This project was built through a human + AI collaboration:
 
 - **Claude (Anthropic)** — initial architecture, React components, security layer
 - **Gemini (Google)** — debugging, CSS fixes, deployment optimisation
-- **[Oday-alt](https://github.com/Oday-alt)** — putting it all together, testing, and shipping it 🚀
